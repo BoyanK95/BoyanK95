@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boyan Koychev !
-- 👀 I've started getting into coding, lately
+- 👀 I've recently started getting more into front-end development with JS !
 - 🌱 I’m currently learning JavaScript-Advance in https://softuni.bg/!
 - 📫 You can reach me at b.koychev95@gmail.com , or https://www.linkedin.com/in/boyan-koychev-1369bb1b8/
 
