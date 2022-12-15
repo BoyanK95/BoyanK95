@@ -8,4 +8,5 @@
 BoyanK95/BoyanK95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![1555167](https://user-images.githubusercontent.com/92653208/192174634-47440c6a-0a9b-4f80-a992-01380bc506e7.jpg)
+
+![react](https://user-images.githubusercontent.com/92653208/207981607-a54907d7-d88b-4457-920e-85fa46b94e5a.png)
