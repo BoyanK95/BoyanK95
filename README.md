@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boyan Koychev !
-- 👀 I've recently finished finished JavaScript-Applications in https://softuni.bg/!
+- 👀 I've recently finished JavaScript-Applications in https://softuni.bg/!
 - 🌱 I’m currently learning React and other JS front-end frameworks !
 - 📫 You can reach me at b.koychev95@gmail.com , or https://www.linkedin.com/in/boyan-koychev-1369bb1b8/
 
