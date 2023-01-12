@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Boyan Koychev,
 - Finished entire Javascript course path (Beginner, Fundamentals, Advanced and Applications) in https://softuni.bg/ with a certificates for excellent grade from all of them(01.10.2022)!
--  I’m currently learning React and other JS front-end frameworks!
--  Working as a junior software engineer for Yara International.
+-  I’ve specialized in front-end development with React and other JS frameworks!
 
 - 📫 You can reach me at b.koychev95@gmail.com , or https://www.linkedin.com/in/boyan-koychev-1369bb1b8/
 
