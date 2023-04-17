@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boyan Koychev,
-- Finished the Javascript course(Beginner, Fundamentals, Advanced and Applications) in https://softuni.bg/ with a certificates for excellent grade!
+
 -  I’ve specialized in front-end development with React and other JS frameworks!
 
 - 📫 You can reach me at b.koychev95@gmail.com , or https://www.linkedin.com/in/boyan-koychev-1369bb1b8/
