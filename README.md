@@ -2,7 +2,7 @@
 
 -  I’ve specialized in front-end development with React and other JS frameworks!
 
-- 📫 You can reach me at b.koychev95@gmail.com , or https://www.linkedin.com/in/boyan-koychev-1369bb1b8/
+- 📫 You can reach me at b.koychev95@gmail.com , https://www.linkedin.com/in/boyan-koychev-1369bb1b8/, or leave me a email in the contact section of my new website:  https://boyank-portfolio.vercel.app/
 
 
 <!---
