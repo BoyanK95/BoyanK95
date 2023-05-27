@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Boyan Koychev,
 
--  I’ve specialized in front-end development with React and other JS frameworks!
+   -  I’ve specialized in front-end development with React, Next and other JavaScript frameworks!
 
-   :computer: You can reach by leaving a message on the contact section of my new website: https://boyank-portfolio.vercel.app/
+   - :computer: You can reach by leaving a message in the contact section of my new website: https://boyank-portfolio.vercel.app/
   
-   :speech_balloon: Or you can directly message me on linked in : https://www.linkedin.com/in/boyan-koychev-1369bb1b8/
-      
-  📫 Or directyly send me an email at: b.koychev95@gmail.com
+   - :speech_balloon: Or you can directly message me on linked in : https://www.linkedin.com/in/boyan-koychev-1369bb1b8/
+   
+   - 📫 Or directyly send me an email at: b.koychev95@gmail.com
 
 
 <!---
