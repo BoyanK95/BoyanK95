@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Boyan Koychev,
 
-   -  I’ve specialized in front-end development with React, Next and other JavaScript frameworks!
- 
-   - :trollface: Currently learning back-end development with Node/Express and Nest,
+   -  I’ve specialized in Front-end development with React, but I also have some experience with Back-end development!
+   -  ⭐ My favorite framework is Next.js!
+   - 🔹 Delved mainly into the JS/TS ecosystem!
 
    - :computer: You can reach me by leaving a message in the contact section of my website: https://boyank-portfolio.vercel.app/
   
